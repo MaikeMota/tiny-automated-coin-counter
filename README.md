@@ -1,1 +1,1 @@
-# TACC - Tiny Automated Coint Counter
+# TACC - Tiny Automated Coin Counter
